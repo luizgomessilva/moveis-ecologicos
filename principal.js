@@ -1,4 +1,4 @@
-var banners = ["Do lixo ao luxo!", "Reaproveitar é aproveitar!"];
+var banners = ["Do lixo ao luxo!", "Reaproveitar é Aproveitar!"];
 var bannerAtual = 0;
 function trocaBanner() {
 	bannerAtual = (bannerAtual + 1) % 2;
